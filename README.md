@@ -7,7 +7,7 @@ Create symmetrical, psychedelic kaleidoscope patterns from real-world images usi
 
 ## 🎥 Demo Preview
 
-![Kaleidoscope Demo](demo/demo.gif)
+![Kaleidoscope Demo](demo.gif)
 
 > Upload → Transform → Trip Out 🎨  
 > *Watch the image morph into a kaleidoscopic illusion with just a few clicks!*
@@ -96,7 +96,7 @@ These filters give the kaleidoscope a psychedelic aesthetic 🌈
 
 ---
 
-## ✅ Future Improvements
+## ✅ Future Improvements to be make soon 
 
 - Add a "Download" button for the generated image
 - Add live animated kaleidoscope preview
